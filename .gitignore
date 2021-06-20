@@ -1,5 +1,19 @@
 # Compiled class file
 *.class
+/code/springcloud2021/target/
+
+D:/code/springcloud2021/.idea
+/idea/compiler.xml
+/idea/dataSources.xml
+/idea/encodings.xml
+/idea/jarRepositories.xml
+/idea/libraries/*
+/idea/misc.xml
+/idea/modules.xml
+/idea/springcloud2021.iml
+/idea/uiDesigner.xml
+/idea/vcs.xml
+/springcloud2021.iml
 
 # Log file
 *.log
