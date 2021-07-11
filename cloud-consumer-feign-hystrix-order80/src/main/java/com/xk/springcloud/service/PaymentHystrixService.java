@@ -1,8 +1,5 @@
 package com.xk.springcloud.service;
 
-import com.xk.springcloud.entities.CommonResult;
-import com.xk.springcloud.entities.Payment;
-import com.xk.springcloud.service.impl.PaymentFallbackService;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.GetMapping;

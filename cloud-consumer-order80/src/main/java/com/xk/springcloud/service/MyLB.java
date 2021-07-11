@@ -1,4 +1,4 @@
-package com.xk.springcloud.service.impl;
+package com.xk.springcloud.service;
 
 import com.xk.springcloud.service.LoadBalancer;
 import org.springframework.cloud.client.ServiceInstance;

@@ -1,4 +1,4 @@
-package com.xk.springcloud.service.impl;
+package com.xk.springcloud.service;
 
 import com.xk.springcloud.service.PaymentHystrixService;
 import org.springframework.stereotype.Component;
