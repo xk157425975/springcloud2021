@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cloud-eureka-server7001" />
         <module name="cloud-eureka-server7002" />
+        <module name="seata-order-service2001" />
         <module name="cloudalibaba-consumer-nacos-order84" />
         <module name="cloud-consumer-feign-hystrix-order80" />
         <module name="cloud-stream-rabbitmq-provider8801" />
@@ -32,6 +33,8 @@
         <module name="cloudalibaba-provider-payment9001" />
         <module name="cloud-gateway-gateway9527" />
         <module name="cloudalibaba-consumer-nacos-order83" />
+        <module name="seata-account-service2003" />
+        <module name="seata-storage-service2002" />
         <module name="cloud-consumer-order80" />
         <module name="cloudalibaba-sentinel-service8401" />
         <module name="cloud-config-client-3355" />
@@ -39,6 +42,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="8803 - cloud-stream-rabbitmq-consumer8803" target="8" />
+      <module name="seata- account- service2003" target="8" />
+      <module name="seata- storage - service200" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
